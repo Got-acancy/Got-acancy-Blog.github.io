@@ -4,66 +4,16 @@
   
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2023/06/27/2023-6-27-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/06/27/2023-6-27-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><div class="note default simple"><p>The high road</p></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴样式</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-07-24 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases">2.6.6 -&gt; 3.0</a></p></div></div><div class='timeline-item-content'><ol><li>如果有 <code>hexo-lazyload-image</code> 插件，需要删除并重新安装最新版本，设置 <code>lazyload.isSPA: true</code>。</li><li>2.x 版本的 css 和 js 不适用于 3.x 版本，如果使用了 <code>use_cdn: true</code> 则需要删除。</li><li>2.x 版本的 fancybox 标签在 3.x 版本中被重命名为 gallery 。</li><li>2.x 版本的置顶 <code>top: true</code> 改为了 <code>pin: true</code>，并且同样适用于 <code>layout: page</code> 的页面。</li><li>如果使用了 <code>hexo-offline</code> 插件，建议卸载，3.0 版本默认开启了 pjax 服务。</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-05-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.6">2.6.3 -&gt; 2.6.6</a></p></div></div><div class='timeline-item-content'><p>不需要额外处理。</p></div></div></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签一 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第三篇文章</title>
-      <link href="/2023/06/27/2023-6-28-%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/06/27/2023-6-28-%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是我的第三篇文章"><a href="#这是我的第三篇文章" class="headerlink" title="这是我的第三篇文章"></a>这是我的第三篇文章</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> c++ </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签三 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第二篇文章</title>
+      <title>日常记录</title>
       <link href="/2023/06/27/2023-6-28-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/06/27/2023-6-28-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="日常记录"><a href="#日常记录" class="headerlink" title="日常记录"></a>日常记录</h2><div class="note default simple"><p>The high road</p></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-07-15</p></div></div><div class='timeline-item-content'><p>一些实用的免费动漫网站 动漫网站大全和在线下载动漫网站，需要的收藏备用！排名不分先后</p><p>免费动漫网站在线观看网站列表<br>OmoFun ：<a href="https://www.omofun.com/">https://www.omofun.com/</a></p><p>喔喔动漫：<a href="https://www.wowodm.net/">https://www.wowodm.net/</a></p><p>动漫岛：<a href="http://www.88dmw.com/">http://www.88dmw.com/</a></p><p>卡卡动漫：<a href="https://www.kakadm.cc/">https://www.kakadm.cc/</a></p><p>Anime1：<a href="https://anime1.me">https://anime1.me</a></p><p>AGE 动漫: <a href="https://www.agefans.cc">https://www.agefans.cc</a></p><p>樱花动漫：<a href="http://www.imomoe.la">http://www.imomoe.la</a></p><p>番组放送：<a href="https://bgmlist.com/">https://bgmlist.com/</a></p><p>小丑动漫网：<a href="http://www.xcdm.net/">http://www.xcdm.net/</a></p><p>ZzzFun 动漫：<a href="http://www.zzzfun.com">http://www.zzzfun.com</a></p><p>Bangumi 番组计划：<a href="https://bangumi.tv/">https://bangumi.tv/</a></p><p>怡萱动漫：<a href="http://www.yxdm.li/">http://www.yxdm.li/</a></p><p>AGE动漫：<a href="https://www.agefans.vip/">https://www.agefans.vip/</a></p><p>橘子动漫：<a href="https://www.mgnacg.com/">https://www.mgnacg.com/</a></p><p>巴哈姆特动画疯：<a href="https://ani.gamer.com.tw">https://ani.gamer.com.tw</a></p><p>233动漫网：<a href="https://www.dm233.cc">https://www.dm233.cc</a></p><p>去看吧： <a href="https://www.qkan8.com/">https://www.qkan8.com/</a></p><p>动漫下载网站</p><p>排名不分先后</p><p>萌番组：<a href="https://bangumi.moe">https://bangumi.moe</a></p><p>动漫花园：<a href="http://www.dmhy.org">http://www.dmhy.org</a></p><p>扶她动漫：<a href="https://futaacg.com">https://futaacg.com</a></p><p>Animex动漫社：<a href="http://www.animetox.com">http://www.animetox.com</a></p></div></div></div>]]></content>
       
       
       <categories>
           
-          <category> java </category>
+          <category> 记录生活 </category>
           
       </categories>
       
@@ -79,17 +29,23 @@
     
     
     <entry>
-      <title>第五篇文章</title>
-      <link href="/2023/06/27/2023-6-28-%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/06/27/2023-6-28-%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>资源记录</title>
+      <link href="/2023/06/27/2023-6-27-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/06/27/2023-6-27-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第五篇文章"><a href="#这是我的第五篇文章" class="headerlink" title="这是我的第五篇文章"></a>这是我的第五篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="精选资源"><a href="#精选资源" class="headerlink" title="精选资源"></a>精选资源</h2><div class="note default simple"><p>The high road</p></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-07-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases">2.6.6 -&gt; 3.0</a></p></div></div><div class='timeline-item-content'><ol><li><p>芭莎系统课<br><a href="https://pan.baidu.com/s/1EO5n62_3Ece7XwhBf8xtkA">https://pan.baidu.com/s/1EO5n62_3Ece7XwhBf8xtkA</a> 提取码：ms4s </p></li><li><p>语音转文本引擎<br><a href="https://github.com/mozilla/DeepSpeech">https://github.com/mozilla/DeepSpeech</a></p></li><li><p>Notion教学，只用看这个up主的就够了，无论语言和notion都简练的恰到好处<br><a href="https://www.bilibili.com/video/BV17E411i7zt?t=38.9">https://www.bilibili.com/video/BV17E411i7zt?t=38.9</a></p></li><li><p>百度AI文案生成视频工具<br><a href="https://aigc.baidu.com/make?tab=create">https://aigc.baidu.com/make?tab=create</a></p></li><li><p>Win11 任务栏透明Translucent TB2023.1<br><a href="https://wwp.lanzoul.com/iNkDZ1227vdc">https://wwp.lanzoul.com/iNkDZ1227vdc</a><br><a href="https://github.com/TranslucentTB/TranslucentTB">https://github.com/TranslucentTB/TranslucentTB</a></p></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>20223-07-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.6">2.6.3 -&gt; 2.6.6</a></p></div></div><div class='timeline-item-content'><ol><li><p>由剑桥大学开发的免费学习英语的工具，练习书面英语还能自动反馈改进建议，不需要注册，适用于任何人<br>网站：<a href="https://writeandimprove.com/workbooks#/wi-workbooks/7485eb41-a047-4d23-ae25-5afb7387eba9">https://writeandimprove.com/workbooks#/wi-workbooks/7485eb41-a047-4d23-ae25-5afb7387eba9</a><br>更多：<a href="https://eureka.mba/posts/3f43dc72.html">https://eureka.mba/posts/3f43dc72.html</a></p></li><li><p>伪造任何网站界面截图的工具<br>可修改任何网站的任何文字或者图片<br><a href="https://github.com/thegreatjavascript/FakeScreenshot">https://github.com/thegreatjavascript/FakeScreenshot</a></p></li><li><p>截图检测工具：FakeScreenshot<br>能够检查截图是否由本工具生成<br><a href="https://fakes.netlify.app/">https://fakes.netlify.app/</a></p></li><li><p>6000+背单词词库书<br><a href="https://pan.baidu.com/s/18kXk5MZ7F1fGN0DXwIuDmA">https://pan.baidu.com/s/18kXk5MZ7F1fGN0DXwIuDmA</a> 提取码：wwh6 </p></li><li><p>17 个改变世界的公式【如图】<br><img src="https://cdn.staticaly.com/gh/Wild-Orchid16/pic_bed@main/2023/6xia1.png" alt="17 个改变世界的公式【如图】"></p></li><li><p>SQL思维导图【如图】<br><img src="https://cdn.staticaly.com/gh/Wild-Orchid16/pic_bed@main/2023/6xia2.jpg" alt="SQL思维导图【如图】"></p></li></ol></div></div></div>]]></content>
       
+      
+      <categories>
+          
+          <category> 多样性资源 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 标签五 </tag>
+            <tag> 标签一 </tag>
             
         </tags>
       
@@ -98,23 +54,48 @@
     
     
     <entry>
-      <title>第四篇文章</title>
-      <link href="/2023/06/27/2023-6-28-%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/06/27/2023-6-28-%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>干货</title>
+      <link href="/2023/06/27/2023-6-28-%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/06/27/2023-6-28-%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第四篇文章"><a href="#这是我的第四篇文章" class="headerlink" title="这是我的第四篇文章"></a>这是我的第四篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="干货"><a href="#干货" class="headerlink" title="干货"></a>干货</h2><div class="note default simple"><p>The high road</p></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-07-15</p></div></div><div class='timeline-item-content'><p>20个实操保姆级副业项目<br>这边免费给到大家很多项目资料和工具，主要的就是为了消除信息壁垒，<br>在互联网创业或兼职的路上不再被割，不再多花冤枉钱，相信人间有真爱，<br>有不懂的问题可咨询博主!为了帮助到更多的创业者，资料欢迎转发~</p><ol><li>【腾讯文档】不要在花冤枉钱了，0元办理执照教程！<br> <a href="https://oxml6w4elwc.feishu.cn/docx/MOBPdJIfZob5wxxhi4rc8i12nod">不要在花冤枉钱了，0元办理执照教程！</a></li><li>【腾讯文档】【蓝海项目】 小红书无货源电商实战分享<br><a href="https://oxml6w4elwc.feishu.cn/docx/TAsJdujB2o3a7zxQ9VHc6Vd0nzc">【蓝海项目】小红书无货源电商实战分享全套玩法 </a></li><li>【腾讯文档】2998元粒子音乐变现副业项目保姆级喂饭教学！<br> <a href="https://oxml6w4elwc.feishu.cn/docx/EFX6d5hxwokn8Xxn8IIcHhmhnie">2998元粒子音乐变现副业项目保姆级喂饭教学！</a></li><li>【腾讯文档】AI壁纸号，一周涨粉数千，变现四位数保姆级玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/Qj4vdd2jMovBVqxaqH4cHSyPnWc">AI壁纸号，一周涨粉数千，变现四位数保姆级玩法</a></li><li>【腾讯文档】表情包扩列短视频引流玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/BvIOdG6IsoVwN2xbKfoclrOhnmm">表情包扩列短视频引流玩法</a> </li><li>【腾讯文档】答题项目项目玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/PdHfdO76FoNytox4T8jcpAGCn6b">答题项目项目玩法</a> </li><li>【腾讯文档】抖音情感电台半年赚20W (全套玩法)<br> <a href="https://oxml6w4elwc.feishu.cn/docx/Dy8mdiIXwoh8EcxGBL3c2cV4nQb">抖音情感电台半年赚20W（全套玩法）</a> </li><li>【腾讯文档】《抖音图文引流课程详细全套玩法》<br><a href="https://oxml6w4elwc.feishu.cn/docx/I6DEd53MgoIxjwxtbxfcmVC4nTe">《抖音图文引流课程详细全套玩法》</a> </li><li>【腾讯文档】抖音小店【极小垂直类目】不补单起店玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/JUXhdkFnpouv18xQJDzc3nWPng3">抖音小店【极小垂直类目】不补单起店玩法</a></li><li>【腾讯文档】抖音虚拟类目玩法: 半年在抖音卖出50万份课程<br> <a href="https://oxml6w4elwc.feishu.cn/docx/JUZ0dw1aOoy4hkxowILcpialn7z">抖音虚拟类目玩法：半年在抖音卖出50万份课程</a> </li><li>【腾讯文档】抖音引流卖教辅资料，单人单日500+，虚拟产品私域玩法实战分享<br> <a href="https://oxml6w4elwc.feishu.cn/docx/OwIRdLpOzotX08xdwAScImqXnsh">抖音引流卖教辅资料，单人单日500+，虚拟产品私域玩法实战分享</a> </li><li>【腾讯文档】剧本杀项目全套玩法月入800到月1W！<br> <a href="https://oxml6w4elwc.feishu.cn/docx/XCF8dM4XyoGbpIxVWuicudz1nYf">剧本杀项目全套玩法月入800到月1W！</a> </li><li>【腾讯文档】撸纸群日入1000+玩法项目无脑玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/XtGkdjjVkoIYKIx65boc2vfcn5d">撸纸群日入1000+玩法项目无脑玩法</a> </li><li>【腾讯文档】视频号民谣音乐号项目，三个人一个月利润可以达到8-12万<br> <a href="https://oxml6w4elwc.feishu.cn/docx/Mwu4dHUyDod0JCxwWxicUW3AnMc">视频号民谣音乐号项目，三个人一个月利润可以达到8-12万</a></li><li>【腾讯文档】淘宝赔付项目日入300+玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/V7qadRmfcozo1Bx88hXcfM5tntb">淘宝赔付项目日入300+玩法</a> </li><li>【腾讯文档】同城相亲项目保姆级实战教程日入四位数<br> <a href="https://oxml6w4elwc.feishu.cn/docx/M0PRdaaeJo4GMmxDF7VcxTUHnse">同城相亲项目保姆级实战教程日入四位数</a> </li><li>【腾讯文档】外面收费888的短剧项目保姆级玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/C7l6dErxAoBqkqxltm2cqLj8nOe">外面收费888的短剧项目保姆级玩法</a></li><li>【腾讯文档】微信互推引流日引上千粉 保姆级教学<br> <a href="https://oxml6w4elwc.feishu.cn/docx/L8xmdrEzCoyIIbxM0SncXbKPnac">微信互推引流日引上千粉,保姆级教学</a></li><li>【腾讯文档】虚拟电商年入百万保姆级教程<br> <a href="https://oxml6w4elwc.feishu.cn/docx/BIm3dIcP9oZhaUxtOtucadx6nQe">虚拟电商年入百万保姆级教程</a> </li><li>【腾讯文档】知乎好物变现全套保姆级玩法<br> <a href="https://oxml6w4elwc.feishu.cn/docx/HmTjdO6bfoaj3QxgZ7CcpDVyngc">知乎好物变现全套保姆级玩法</a></li></ol></div></div></div>]]></content>
       
       
       <categories>
           
-          <category> python </category>
+          <category> 干货 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签四 </tag>
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工具合集</title>
+      <link href="/2023/06/27/2023-6-28-%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/06/27/2023-6-28-%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="工具合集"><a href="#工具合集" class="headerlink" title="工具合集"></a>工具合集</h2><div class="note default simple"><p>The high road</p></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-07-15</p></div></div><div class='timeline-item-content'><ol><li>在线工具箱<br><a href="https://tool.lu/?fr=moulem.com">https://tool.lu/?fr=moulem.com</a></li></ol></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具合集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
             
         </tags>
       
@@ -170,17 +151,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
-      
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `{cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='1.0' fill='rgb(57, 197, 187)'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -219,6 +189,17 @@
       <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
+      
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `{cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='1.0' fill='rgb(57, 197, 187)'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
       
     </entry>
     
